@@ -12,8 +12,8 @@ description: Topological Simulation Platform for Active Matter
 #copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Examples, link: "/Examples" }
+  - { name: About, link: "/topospam.github.io/about" }
+  - { name: Examples, link: "/topospam.github.io/Examples" }
 #  - { name: Code, link: "/portfolio" }
 
 #-------------------------------
