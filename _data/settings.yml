@@ -49,7 +49,7 @@ hero:
 # About Section
 blurb: TopoSPAM is a versatile, topologically-informed simulation software designed to study biological active matter and morphogenesis, with advanced features including active nematic gels, topological-defect-driven shape dynamics, and 3D vertex tissue models. This user-friendly platform excels at capturing emergent flows and shapes across scales, potentially revolutionizing personalized study of active matter.
 
-blurb-btn-link: "/about"
+blurb-btn-link: "/topospam.github.io/about"
 blurb-btn-name: know more
 
 #blurb2:
