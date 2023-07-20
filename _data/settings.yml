@@ -280,8 +280,8 @@ client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-4.png"
     url: "https://www.mpi-cbg.de/"
 
-#  - logo: "assets/images/clients-logo/client-logo-5.png"
-#    url: "#"
+  - logo: "assets/images/clients-logo/client-logo-5.png"
+    url: "https://www.pks.mpg.de/"
 
 #  - logo: "assets/images/clients-logo/client-logo-1.png"
 #    url: "#"
