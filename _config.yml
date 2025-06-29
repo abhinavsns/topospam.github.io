@@ -11,15 +11,10 @@ compress_html:
   comments: all
   startings: [html, head, body]
 
-# Pages Path
-defaults:
-  - scope:
-      path: "_pages"
-    values:
-      permalink: /:basename:output_ext
-
-include:
-  - _pages
+collections:
+  pages:
+    output: true
+    permalink: /:name
 
 sass:
   sass_dir: assets/scss
