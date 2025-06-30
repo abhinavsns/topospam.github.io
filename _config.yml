@@ -1,5 +1,5 @@
-baseurl: "" # TopoSPAM - Topological Simulation Platform for Active Matter
-url: "" # Fill this with the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "topospam.org" # TopoSPAM - Topological Simulation Platform for Active Matter
+url: "http://topospam.org/" # Fill this with the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
