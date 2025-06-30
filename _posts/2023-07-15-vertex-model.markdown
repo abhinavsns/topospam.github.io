@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Vertex Model
-date:   2023-07-14 10:05:55 +0300
+date:   2023-07-16 10:05:55 +0300
 image:  /assets/images/examples/vertexmodel.png
 author: Abhinav Singh
 tags:   TopoSpam Simulation
