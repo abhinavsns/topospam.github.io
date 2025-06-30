@@ -13,7 +13,7 @@ description: Topological Simulation Platform for Active Matter
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Examples, link: "/Examples" }
+  - { name: Examples, link: "/examples" }
 #  - { name: Code, link: "/portfolio" }
 
 #-------------------------------
