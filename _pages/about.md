@@ -25,7 +25,7 @@ TopoSPAM stands out not just for its versatility but also for its capacity to ca
     <a href="https://www.pks.mpg.de/biological-physics/frank-juelicher" target="_blank">
       <img src="{{ site.baseurl }}/assets/images/team/frank.jpg" alt="Frank Julicher" class="img-fluid rounded-circle mb-3" width="200">
     </a>
-    <h5>Frank Julicher</h5>
+    <h5>Frank Jülicher</h5>
   </div>
   <div class="col-md-4 text-center">
     <a href="https://www.mpi-cbg.de/research/researchgroups/currentgroups/carl-modes/group-leader" target="_blank">
@@ -61,7 +61,7 @@ TopoSPAM stands out not just for its versatility but also for its capacity to ca
    <div class="col-md-4">
     <div class="row justify-content-center">
       <div class="col-md-6 text-center">
-        <img src="https://via.placeholder.com/150" alt="Anne" class="img-fluid rounded-circle mb-3" width="200">
+        <img src="{{ site.baseurl }}/assets/images/team/anne.jpg" alt="Anne" class="img-fluid rounded-circle mb-3" width="200">
         <p>Anne</p>
       </div>
       <div class="col-md-6 text-center">
