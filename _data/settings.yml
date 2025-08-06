@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Topologically Informed Simulation Platform for Morphogenesis and Biological Active Matter
+  hero-title: Topology Aware Simulation Platform for Morphogenesis and Biological Active Matter
 
 #social:
   #- { icon: "ti-facebook", link: "#" }
